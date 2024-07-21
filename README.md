@@ -16,12 +16,18 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking spaces
 ## Installation
 
 To run this game locally, follow these steps:
-    1. **Clone the Tepository**:
-         ```bash git clone https://github.com/your-username/tic-tac-toe.git```
+
+    1. **Clone the Repository**:
+    
+         ```git clone https://github.com/your-username/tic-tac-toe.git```
+         
     2. **Navigate to the project Directory**:
-         ```bash cd tic-tac-toe```
+    
+         ```cd tic-tac-toe```
+         
     3. **Open the `index.html` File in your Browser**:
-         You can simply open the `index.html` file in any web browser to start playing the game.
+    
+         You can open the `index.html` file in any web browser to start playing the game.
 
  ## Usage
  
